@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on boosting my personal portfolio.<br>I’m currently learning CTJS.<br>Fun fact, I am also a musician!
+I am a first year university student studying computer science.<br>I am particularly interested in homelabbing, with my current setup consisting of a recycled laptop and desktop pc, between them running a multitude of services, including but not limited to: JellyFin, WireGuard, and Pi-Hole.<br>At the moment I am learning to be proficient in JavaScript so I can increase the variety of languages that I understand.
 
 
 ## 🌐 Socials:
