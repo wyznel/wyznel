@@ -1,9 +1,46 @@
-# About Me:
-First year university student studying computer science.<br>I am particularly interested in homelabbing, with my current setup consisting of a recycled laptop and desktop pc, between them running a multitude of services, including but not limited to: JellyFin, WireGuard, and Pi-Hole.<br>At the moment I am learning to be proficient in JavaScript so I can increase the variety of languages that I understand.
+<div align="center">
+
+# Ben Herbert
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1500&pause=750&center=true&vCenter=true&width=435&lines=University+Student;Proficient+in+Java+%26+Web+Development;Currently+learning+Swift" alt="Typing SVG" /></a>
+
+<p>
+<a href="https://benherbert.uk"><img src="https://img.shields.io/badge/Portfolio-benherbert.uk-1a1b27?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38bdae" alt="Portfolio" /></a>
+<a href="mailto:benherbert369@gmail.com"><img src="https://img.shields.io/badge/Email-benherbert369@gmail.com-1a1b27?style=for-the-badge&amp;logo=gmail&amp;logoColor=f7768e" alt="Email" /></a>
+</p>
 
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benw.h_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-herbert-881959311/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13025122) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benherbert369@gmail.com) 
+## About Me:
 
-# I have a bit of experience in:
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a></p>
+University Student earning a BSc in Computer Science. My interests include homelabbing, programming, and AI. Am proficient in Java, and web development, with my focus currently being held by learning Swift for iOS and macOS development.
+</div>
+
+## Relevant Projects
+
+<a href="https://github.com/liberty"><b>Liberty</b></a>: An in development JavaFX chat program that provides a front end for interacting with local LLMs using Ollama.
+<p>
+<a href="https://github.com/mymac-remote"><b>MyMac-Remote</b></a>: A Node.js web app that allows any device on the same network as your Mac to take complete control over it.
+</p>
+<p>
+<a href="https://github.com/show-desktop"><b>ShowDesktop</b></a>: A Swift-built macOS app that lives in the menu bar which brings the simplicity of Windows' 'show desktop' feature to macOS.
+</p>
+
+
+## Languages & Technologies I'm proficient in:
+<p align="center">
+<a href="https://dev.java" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://nginx.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://swift.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/>
+</a>
+</p>
