@@ -17,12 +17,12 @@ University Student earning a BSc in Computer Science. My interests include homel
 
 ## Relevant Projects
 
-<a href="https://github.com/liberty"><b>Liberty</b></a>: An in development JavaFX chat program that provides a front end for interacting with local LLMs using Ollama.
+<a href="https://github.com/wyznel/liberty"><b>Liberty</b></a>: An in development JavaFX chat program that provides a front end for interacting with local LLMs using Ollama.
 <p>
-<a href="https://github.com/mymac-remote"><b>MyMac-Remote</b></a>: A Node.js web app that allows any device on the same network as your Mac to take complete control over it.
+<a href="https://github.com/wyznel/mymac-remote"><b>MyMac-Remote</b></a>: A Node.js web app that allows any device on the same network as your Mac to take complete control over it.
 </p>
 <p>
-<a href="https://github.com/show-desktop"><b>ShowDesktop</b></a>: A Swift-built macOS app that lives in the menu bar which brings the simplicity of Windows' 'show desktop' feature to macOS.
+<a href="https://github.com/wyznel/show-desktop"><b>ShowDesktop</b></a>: A Swift-built macOS app that lives in the menu bar which brings the simplicity of Windows' 'show desktop' feature to macOS.
 </p>
 
 
