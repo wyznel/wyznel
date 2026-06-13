@@ -16,8 +16,10 @@ University Student earning a BSc in Computer Science. My interests include homel
 </div>
 
 ## Relevant Projects
-
+<a href="https://github.com/wyznel/astex"><b>Astex</b></a>: A swift version of Liberty, better in every way.
+<p>
 <a href="https://github.com/wyznel/liberty"><b>Liberty</b></a>: An in development JavaFX chat program that provides a front end for interacting with local LLMs using Ollama.
+</p>
 <p>
 <a href="https://github.com/wyznel/mymac-remote"><b>MyMac-Remote</b></a>: A Node.js web app that allows any device on the same network as your Mac to take complete control over it.
 </p>
